@@ -1,5 +1,5 @@
 //
-//  product.swift
+//  Product.swift
 //  app-coder-swag
 //
 //  Created by Maïlys Perez on 27/06/2020.
